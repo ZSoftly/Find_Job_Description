@@ -36,6 +36,4 @@ To prepare for an interview in a Cloud/DevOps role, it's important to review the
 
 3. **Ask Clarifying Questions**: During the interview, feel free to ask questions about any parts of the job description that are unclear or need more detail. This shows that you are thoughtful and engaged.
 
----
-
-This workflow is designed to help you efficiently find and understand the job description for your upcoming Cloud/DevOps interview. By following these steps, you’ll be well-prepared to discuss how your skills and experience align with the role.
+Contact zsoftly if you have any questions.
